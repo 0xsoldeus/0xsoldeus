@@ -4,8 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=650&lines=Cloud+Security+%2F%2F+DevSecOps;Linux+Kernel+%2F%2F+Kernel+Debugging;Active+Directory+%2F%2F+Red+Team+Ops;CTF+Player+%2F%2F+root+access+granted_)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=6D28D9&label=TRANSMISSIONS%20RECEIVED)
-![Followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&color=22D3EE&labelColor=0a0e0d)
+![Profile Views](https://komarev.com/ghpvc/?username=0xsoldeus&style=for-the-badge&color=6D28D9&label=TRANSMISSIONS%20RECEIVED)
+![Followers](https://img.shields.io/github/followers/0xsoldeus?style=for-the-badge&color=22D3EE&labelColor=0a0e0d)
 
 </div>
 
@@ -64,12 +64,12 @@
 
 ### `~/stats` — telemetry
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=synthwave&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=synthwave&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xsoldeus&show_icons=true&theme=synthwave&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?0xsoldeus=)0xsoldeus&layout=compact&theme=synthwave&hide_border=true)
 
-![Streak](https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=synthwave&hide_border=true)
+![Streak](https://streak-stats.demolab.com/?user=0xsoldeus&theme=synthwave&hide_border=true)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&column=4&margin-w=15&margin-h=15&no-frame=true)
+![Trophies](https://github-profile-trophy.vercel.app/?username=0xsoldeus&theme=algolia&column=4&margin-w=15&margin-h=15&no-frame=true)
 
 </div>
 
@@ -77,7 +77,7 @@
 
 ### `~/contrib` — live feed
 
-![Snake animation](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/0xsoldeus/0xsoldeus/output/github-contribution-grid-snake.svg)
 
 > auto-regenerated every 6 hours — see `.github/workflows/snake.yml` in this repo
 
@@ -87,7 +87,7 @@
 
 ### `~/transmit` — reach out
 
-[![X](https://img.shields.io/badge/x.com-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com)
+[![X](https://img.shields.io/badge/x.com-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/grandmazumders)
 [![Email](https://img.shields.io/badge/email-6D28D9?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:swarnava@example.com)
 
 <br>
