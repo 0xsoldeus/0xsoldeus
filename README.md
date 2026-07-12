@@ -8,7 +8,7 @@
 
 <div align="center">
 
-![Access Card](./assets/access-card.svg)
+![Access Card](https://github.com/0xsoldeus/0xsoldeus/blob/main/access-card.svg)
 
 <sub>hand-built SVG · rotating network scan, glitching title, a live Kerberos ticket readout, a scrolling exploit-dev ticker — 100% self-hosted in this repo, nothing rented from a third-party API</sub>
 
