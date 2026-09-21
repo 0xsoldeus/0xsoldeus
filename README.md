@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/access-card.svg" alt="SOLDEUS — Security Engineering Lab" width="100%" />
+<img src="assets/access-card.svg" alt="SOLDEUS — Security Engineering Lab" width="900" />
 
 # SOLDEUS
 
