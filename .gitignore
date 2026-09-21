@@ -1,0 +1,40 @@
+# Secrets
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+credentials*
+secrets*
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs / captures
+*.pcap
+*.pcapng
+*.log
+
+# Build output
+build/
+dist/
+
+# Local lab state
+lab-data/
+snapshots/
